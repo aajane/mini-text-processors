@@ -1,0 +1,124 @@
+{
+    "toc" : {
+        "_lang" : "en",
+        "_display_name" : "science_6",
+        "_learning_engine" : "disabled",
+        "_grade" : "6",
+        "assessment_options" : {
+            "chapter" : {
+                "practice_quiz" : {
+                    "maxQuestions" : 5
+                },
+                "challenge_test" : {
+                    "maxQuestions" : 5
+                }
+            },
+            "topic" : {
+                "practice_quiz" : {
+                    "maxQuestions" : 3
+                },
+                "challenge_test" : {
+                    "maxQuestions" : 3
+                },
+                "lern_quiz" : {
+                    "maxQuestions" : 3
+                }
+            },
+            "section" : {
+                "practice_quiz" : {
+                    "maxQuestions" : 3
+                },
+                "challenge_test" : {
+                    "maxQuestions" : 3
+                }
+            }
+        },
+        "_icon" : "/icon/tfu.png",
+        "_curriculum" : "CBSE",
+        "_version" : "1",
+        "ge" : [ 
+            {
+                "_learning_status" : "0",
+                "ce" : [ 
+                    {
+                        "_display_name" : "Practice Test",
+                        "_type" : "practice_quiz",
+                        "_qat_category_id" : [ 
+                            "5b88df1e4a3ea83388d12a53"
+                        ],
+                        "flow_rule" : "usage = 500",
+                        "_id" : "5bf7acfacef3e5306b95569d_CT",
+                        "_url" : [ 
+                            "b121517", 
+                            "z121526", 
+                            "b121048"
+                        ]
+                    }, 
+                    {
+                        "_display_name" : "Challenge Test",
+                        "_type" : "challenge_test",
+                        "_qat_category_id" : [ 
+                            "5b88df1e4a3ea83388d12a53"
+                        ],
+                        "flow_rule" : "usage = 500",
+                        "_id" : "5bf7acfacef3e5306b95569d_CT",
+                        "_url" : [ 
+                            "b121517", 
+                            "z121526", 
+                            "b121048"
+                        ]
+                    }
+                ],
+                "_display_name" : "Food: Where Does It Come From?",
+                "_unlocked" : false,
+                "_icon" : "tfu.png",
+                "_qat_category_id" : [ 
+                    "5b88df1e4a3ea83388d12a53"
+                ],
+                "_id" : "5bf7acfacef3e5306b95569d",
+                "ge" : [ 
+                    {
+                        "_learning_status" : "0",
+                        "ce" : [],
+                        "_display_name" : "Sources Of Food: Plants And Animals",
+                        "_unlocked" : false,
+                        "_qat_category_id" : [ 
+                            "5b88df1e4a3ea83388d12a54"
+                        ],
+                        "_id" : "5bf7acfacef3e5306b95569e",
+                        "xe" : [ 
+                            {
+                                "_learning_status" : "0",
+                                "ce" : [],
+                                "_display_name" : "Food From Animals",
+                                "_demo_content" : false,
+                                "_unlocked" : false,
+                                "_icon" : "thumbnails/z121526.png",
+                                "_qat_category_id" : [ 
+                                    "5b88df1e4a3ea83388d12a56"
+                                ],
+                                "_id" : "z121526",
+                                "_notes" : true,
+                                "_description" : "This topic describes that several foods we regularly eat are derived from animal sources."
+                            }, 
+                            {
+                                "_learning_status" : "0",
+                                "ce" : [],
+                                "_display_name" : "Ecosystems",
+                                "_demo_content" : false,
+                                "_unlocked" : false,
+                                "_icon" : "thumbnails/b121048.png",
+                                "_qat_category_id" : [ 
+                                    "5b88df1e4a3ea83388d12a57"
+                                ],
+                                "_id" : "b121048",
+                                "_notes" : true,
+                                "_description" : "Describes the concept of an ecosystem, its components, and its types"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
